@@ -1,0 +1,3 @@
+D:storm_workxrt_MC_ncRNAmainsample_datapretrain.tsv filter=lfs diff=lfs merge=lfs -text
+main/sample_data/pre/train.tsv filter=lfs diff=lfs merge=lfs -text
+main/rna_premodel_0/pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
